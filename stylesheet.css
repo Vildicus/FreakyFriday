@@ -46,7 +46,6 @@ h2 {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
-
 }
 
 .tittel{
@@ -66,7 +65,7 @@ h2 {
     flex-wrap: wrap;
     justify-content: space-evenly;
     margin-bottom: 10px;
-    padding: 100px;
+    padding: 50px;
     float: right;
 }
 
@@ -81,7 +80,7 @@ h2 {
     flex-wrap: wrap;
     justify-content: space-evenly;
     margin-bottom: 10px;
-    padding: 100px;
+    padding: 50px;
 }
 
 .nurseBilde {
@@ -92,6 +91,7 @@ h2 {
 
 .side-by-side {
   width: 48%;
+  margin: 10px;
   text-align: center;
 }
 
