@@ -73,7 +73,7 @@ a:active {
 }
 
 .bildeTop {
-    background-image: url('korridor.jpg');
+    background-image: url('korridor.jpg'); /* Bilde hentet fra https://unsplash.com/ */
     height: 700px;
     padding-top: 250px;
     background-repeat: no-repeat;
